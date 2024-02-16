@@ -1,0 +1,1018 @@
+Day 0--The EQUITY is changing to: ASIANPAINT, from ASIANPAINT ----- Total Revenue: 3000
+Day 1--No action was taken ----- Total Revenue: 3000
+Day 2--No action was taken ----- Total Revenue: 3000
+Day 3--No action was taken ----- Total Revenue: 3000
+Day 4--The stock was BOUGHT at price: [969.9] ----- Total Revenue: 3000
+Day 5--The trade EXITS (Long) at 961 profit: -182.0 ----- Total Revenue: 2818.0
+Day 6--The stock was SOLD at price: [975.75] ----- Total Revenue: 2818.0
+Day 7--The trade EXITS (short) at 992 profit: -315.0 ----- Total Revenue: 2503.0
+Day 8--The stock was BOUGHT at price: [1020.3] ----- Total Revenue: 2503.0
+Day 9--The stock is HELD with action: 1 ----- Total Revenue: 2503.0
+Day 10--The stock is HELD with action: 1 ----- Total Revenue: 2503.0
+Day 11--The trade EXITS (Long) at 1024 profit: 78.0 ----- Total Revenue: 2581.0
+Day 12--No action was taken ----- Total Revenue: 2581.0
+Day 13--No action was taken ----- Total Revenue: 2581.0
+Day 14--The stock was BOUGHT at price: [1013.7] ----- Total Revenue: 2581.0
+Day 15--The trade EXITS (Long) at 1029 profit: 314.0 ----- Total Revenue: 2895.0
+Day 16--The stock was BOUGHT at price: [1023.95] ----- Total Revenue: 2895.0
+Day 17--The stock is HELD with action: 1 ----- Total Revenue: 2895.0
+Day 18--The stock is HELD with action: 1 ----- Total Revenue: 2895.0
+Day 19--The stock is HELD with action: 1 ----- Total Revenue: 2895.0
+Day 20--The stock is HELD with action: 1 ----- Total Revenue: 2895.0
+Day 21--The stock is BOUGHT AGAIN, [1023.95, 1064.05] ----- Total Revenue: 2895.0
+Day 22--The stock is BOUGHT AGAIN, [1023.95, 1064.05, 1087.55] ----- Total Revenue: 2895.0
+Day 23--The stock is HELD with action: 1 ----- Total Revenue: 2895.0
+Day 24--The trade EXITS (Long) at 1080 profit: 1271.0 ----- Total Revenue: 4166.0
+Day 25--The stock was SOLD at price: [1068.7] ----- Total Revenue: 4166.0
+Day 26--The trade EXITS (short) at 1058 profit: 217.0 ----- Total Revenue: 4383.0
+Day 27--The stock was SOLD at price: [1061.6] ----- Total Revenue: 4383.0
+Day 28--The stock is SOLD AGAIN, [1061.6, 1064.25] ----- Total Revenue: 4383.0
+Day 29--The stock is SOLD AGAIN, [1061.6, 1064.25, 1042.9] ----- Total Revenue: 4383.0
+Day 30--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -995616.0
+Day 31--No action was taken ----- Total Revenue: -995616.0
+Day 32--The stock was SOLD at price: [1070.1] ----- Total Revenue: -995616.0
+Day 33--The stock is SOLD AGAIN, [1070.1, 1073.5] ----- Total Revenue: -995616.0
+Day 34--The stock is SOLD AGAIN, [1070.1, 1073.5, 1089.85] ----- Total Revenue: -995616.0
+Day 35--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+Day 36--The stock was BOUGHT at price: [1086.9] ----- Total Revenue: 3000
+Day 37--The stock is HELD with action: 1 ----- Total Revenue: 3000
+Day 38--The trade EXITS (Long) at 1059 profit: -554.0 ----- Total Revenue: 2446.0
+Day 39--No action was taken ----- Total Revenue: 2446.0
+Day 40--The stock was BOUGHT at price: [1070.45] ----- Total Revenue: 2446.0
+Day 41--The trade EXITS (Long) at 1078 profit: 157.0 ----- Total Revenue: 2603.0
+Day 42--No action was taken ----- Total Revenue: 2603.0
+Day 43--No action was taken ----- Total Revenue: 2603.0
+Day 44--No action was taken ----- Total Revenue: 2603.0
+Day 45--No action was taken ----- Total Revenue: 2603.0
+Day 46--No action was taken ----- Total Revenue: 2603.0
+Day 47--No action was taken ----- Total Revenue: 2603.0
+Day 48--The stock was BOUGHT at price: [1097.9] ----- Total Revenue: 2603.0
+Day 49--The stock is BOUGHT AGAIN, [1097.9, 1104.65] ----- Total Revenue: 2603.0
+Day 50--The stock is BOUGHT AGAIN, [1097.9, 1104.65, 1105.35] ----- Total Revenue: 2603.0
+Day 51--The trade EXITS (Long) at 1120 profit: 1069.0 ----- Total Revenue: 3672.0
+Day 52--The stock was BOUGHT at price: [1112.1] ----- Total Revenue: 3672.0
+Day 53--The stock is BOUGHT AGAIN, [1112.1, 1118.9] ----- Total Revenue: 3672.0
+Day 54--The trade EXITS (Long) at 1133 profit: 684.0 ----- Total Revenue: 4356.0
+Day 55--No action was taken ----- Total Revenue: 4356.0
+Day 56--The stock was BOUGHT at price: [1167.35] ----- Total Revenue: 4356.0
+Day 57--The stock is BOUGHT AGAIN, [1167.35, 1165.3] ----- Total Revenue: 4356.0
+Day 58--The trade EXITS (Long) at 1158 profit: -321.0 ----- Total Revenue: 4035.0
+Day 59--The stock was SOLD at price: [1166.45] ----- Total Revenue: 4035.0
+Day 60--The stock is SOLD AGAIN, [1166.45, 1132.95] ----- Total Revenue: 4035.0
+Day 61--The trade EXITS (short) at 1148 profit: 66.0 ----- Total Revenue: 4101.0
+Day 62--The stock was SOLD at price: [1142.85] ----- Total Revenue: 4101.0
+Day 63--The stock is HELD with action: 2 ----- Total Revenue: 4101.0
+Day 64--The stock is HELD with action: 2 ----- Total Revenue: 4101.0
+Day 65--The stock is HELD with action: 2 ----- Total Revenue: 4101.0
+Day 66--The stock is HELD with action: 2 ----- Total Revenue: 4101.0
+Day 67--The stock is SOLD AGAIN, [1142.85, 1098.9] ----- Total Revenue: 4101.0
+Day 68--The stock is SOLD AGAIN, [1142.85, 1098.9, 1091.2] ----- Total Revenue: 4101.0
+Day 69--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -995898.0
+Day 70--The stock was SOLD at price: [1132.45] ----- Total Revenue: -995898.0
+Day 71--The stock is SOLD AGAIN, [1132.45, 1146.55] ----- Total Revenue: -995898.0
+Day 72--The trade EXITS (short) at 1159 profit: -798.0 ----- Total Revenue: -996696.0
+Day 73--The stock was SOLD at price: [1151.2] ----- Total Revenue: -996696.0
+Day 74--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+Day 75--The stock was BOUGHT at price: [1164.3] ----- Total Revenue: 3000
+Day 76--The stock is BOUGHT AGAIN, [1164.3, 1161.55] ----- Total Revenue: 3000
+Day 77--The stock is HELD with action: 1 ----- Total Revenue: 3000
+Day 78--The trade EXITS (Long) at 1162 profit: -57.0 ----- Total Revenue: 2943.0
+Day 79--The stock was BOUGHT at price: [1143.3] ----- Total Revenue: 2943.0
+Day 80--The stock is HELD with action: 1 ----- Total Revenue: 2943.0
+Day 81--The trade EXITS (Long) at 1151 profit: 148.0 ----- Total Revenue: 3091.0
+Day 82--The stock was BOUGHT at price: [1149.7] ----- Total Revenue: 3091.0
+Day 83--The stock is BOUGHT AGAIN, [1149.7, 1149.6] ----- Total Revenue: 3091.0
+Day 84--The stock is BOUGHT AGAIN, [1149.7, 1149.6, 1140.3] ----- Total Revenue: 3091.0
+Day 85--The stock is HELD with action: 1 ----- Total Revenue: 3091.0
+Day 86--The trade EXITS (Long) at 1154 profit: 457.0 ----- Total Revenue: 3548.0
+Day 87--The stock was SOLD at price: [1149.45] ----- Total Revenue: 3548.0
+Day 88--The stock is SOLD AGAIN, [1149.45, 1155.4] ----- Total Revenue: 3548.0
+Day 89--The stock is SOLD AGAIN, [1149.45, 1155.4, 1162.55] ----- Total Revenue: 3548.0
+Day 90--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -996451.0
+Day 91--The stock was BOUGHT at price: [1134.15] ----- Total Revenue: -996451.0
+(1, 240000)
+Day 92--The trade EXITS (Long) at 1109 profit: -500.0 ----- Total Revenue: -996951.0
+Day 93--The stock was SOLD at price: [1104.55] ----- Total Revenue: -996951.0
+(1, 240000)
+Day 94--The stock is SOLD AGAIN, [1104.55, 1102.95] ----- Total Revenue: -996951.0
+Day 95--The stock is SOLD AGAIN, [1104.55, 1102.95, 1120.25] ----- Total Revenue: -996951.0
+(1, 240000)
+Day 96--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -1996950.0
+Day 97--The stock was BOUGHT at price: [1126.65] ----- Total Revenue: -1996950.0
+(1, 240000)
+Day 98--The trade EXITS (Long) at 1132 profit: 110.0 ----- Total Revenue: -1996840.0
+(1, 240000)
+Day 99--The stock was SOLD at price: [1115.45] ----- Total Revenue: -1996840.0
+Day 100--The trade EXITS (short) at 1128 profit: -246.0 ----- Total Revenue: -1997086.0
+Day 101--No action was taken ----- Total Revenue: -1997086.0
+Day 102--No action was taken ----- Total Revenue: -1997086.0
+Day 103--No action was taken ----- Total Revenue: -1997086.0
+Day 104--The stock was SOLD at price: [1117.35] ----- Total Revenue: -1997086.0
+Day 105--The stock is SOLD AGAIN, [1117.35, 1125.45] ----- Total Revenue: -1997086.0
+Day 106--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+Day 107--The stock was BOUGHT at price: [1155.85] ----- Total Revenue: 3000
+Day 108--The stock is HELD with action: 1 ----- Total Revenue: 3000
+Day 109--The stock is BOUGHT AGAIN, [1155.85, 1156.1] ----- Total Revenue: 3000
+Day 110--The trade EXITS (Long) at 1156 profit: -9.0 ----- Total Revenue: 2991.0
+Day 111--The stock was BOUGHT at price: [1150.1] ----- Total Revenue: 2991.0
+Day 112--The stock is HELD with action: 1 ----- Total Revenue: 2991.0
+Day 113--The trade EXITS (Long) at 1149 profit: -26.0 ----- Total Revenue: 2965.0
+Day 114--The stock was SOLD at price: [1153.25] ----- Total Revenue: 2965.0
+Day 115--The stock is HELD with action: 2 ----- Total Revenue: 2965.0
+Day 116--The stock is SOLD AGAIN, [1153.25, 1148.2] ----- Total Revenue: 2965.0
+Day 117--The stock is HELD with action: 2 ----- Total Revenue: 2965.0
+Day 118--The stock is HELD with action: 2 ----- Total Revenue: 2965.0
+Day 119--The stock is SOLD AGAIN, [1153.25, 1148.2, 1157.3] ----- Total Revenue: 2965.0
+Day 120--The trade EXITS (short) at 1150 profit: 196.0 ----- Total Revenue: 3161.0
+Day 121--The stock was SOLD at price: [1147.35] ----- Total Revenue: 3161.0
+(1, 240000)
+Day 122--The stock is SOLD AGAIN, [1147.35, 1155.55] ----- Total Revenue: 3161.0
+Day 123--The stock is SOLD AGAIN, [1147.35, 1155.55, 1151.1] ----- Total Revenue: 3161.0
+Day 124--The stock is HELD with action: 2 ----- Total Revenue: 3161.0
+Day 125--The trade EXITS (short) at 1154 profit: -160.0 ----- Total Revenue: 3001.0
+Day 126--No action was taken ----- Total Revenue: 3001.0
+Day 127--No action was taken ----- Total Revenue: 3001.0
+(1, 240000)
+Day 128--The stock was SOLD at price: [1140.0] ----- Total Revenue: 3001.0
+Day 129--The stock is SOLD AGAIN, [1140.0, 1134.45] ----- Total Revenue: 3001.0
+Day 130--The stock is SOLD AGAIN, [1140.0, 1134.45, 1129.45] ----- Total Revenue: 3001.0
+Day 131--The trade EXITS (short) at 1141 profit: -400.0 ----- Total Revenue: 2601.0
+Day 132--No action was taken ----- Total Revenue: 2601.0
+Day 133--No action was taken ----- Total Revenue: 2601.0
+(1, 240000)
+Day 134--The stock was SOLD at price: [1151.7] ----- Total Revenue: 2601.0
+Day 135--The stock is SOLD AGAIN, [1151.7, 1153.35] ----- Total Revenue: 2601.0
+Day 136--The stock is SOLD AGAIN, [1151.7, 1153.35, 1168.55] ----- Total Revenue: 2601.0
+(1, 240000)
+Day 137--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -997398.0
+Day 138--The stock was SOLD at price: [1197.05] ----- Total Revenue: -997398.0
+(1, 240000)
+Day 139--The stock is SOLD AGAIN, [1197.05, 1206.35] ----- Total Revenue: -997398.0
+Day 140--The stock is SOLD AGAIN, [1197.05, 1206.35, 1206.05] ----- Total Revenue: -997398.0
+Day 141--The trade EXITS (short) at 1199 profit: 270.0 ----- Total Revenue: -997128.0
+(1, 240000)
+Day 142--The stock was SOLD at price: [1203.95] ----- Total Revenue: -997128.0
+Day 143--The trade EXITS (short) at 1238 profit: -682.0 ----- Total Revenue: -997810.0
+Day 144--The stock was BOUGHT at price: [1256.35] ----- Total Revenue: -997810.0
+(1, 240000)
+Day 145--The trade EXITS (Long) at 1255 profit: -28.0 ----- Total Revenue: -997838.0
+Day 146--The stock was SOLD at price: [1246.05] ----- Total Revenue: -997838.0
+(1, 240000)
+Day 147--The stock is SOLD AGAIN, [1246.05, 1245.5] ----- Total Revenue: -997838.0
+(1, 240000)
+Day 148--The stock is SOLD AGAIN, [1246.05, 1245.5, 1255.95] ----- Total Revenue: -997838.0
+Day 149--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+(1, 240000)
+Day 150--The stock was SOLD at price: [1237.3] ----- Total Revenue: 3000
+(1, 240000)
+Day 151--The stock is SOLD AGAIN, [1237.3, 1229.1] ----- Total Revenue: 3000
+(1, 240000)
+Day 152--The stock is SOLD AGAIN, [1237.3, 1229.1, 1213.25] ----- Total Revenue: 3000
+Day 153--The trade EXITS (short) at 1197 profit: 1776.0 ----- Total Revenue: 4776.0
+(1, 240000)
+Day 154--The stock was SOLD at price: [1174.0] ----- Total Revenue: 4776.0
+Day 155--The stock is SOLD AGAIN, [1174.0, 1160.0] ----- Total Revenue: 4776.0
+Day 156--The stock is HELD with action: 2 ----- Total Revenue: 4776.0
+Day 157--The trade EXITS (short) at 1132 profit: 1412.0 ----- Total Revenue: 6188.0
+(1, 240000)
+Day 158--The stock was SOLD at price: [1148.8] ----- Total Revenue: 6188.0
+Day 159--The trade EXITS (short) at 1154 profit: -105.0 ----- Total Revenue: 6083.0
+Day 160--The stock was BOUGHT at price: [1153.25] ----- Total Revenue: 6083.0
+Day 161--The stock is BOUGHT AGAIN, [1153.25, 1157.3] ----- Total Revenue: 6083.0
+(1, 240000)
+Day 162--The trade EXITS (Long) at 1159 profit: 133.0 ----- Total Revenue: 6216.0
+Day 163--The stock was SOLD at price: [1163.0] ----- Total Revenue: 6216.0
+(1, 240000)
+Day 164--The stock is SOLD AGAIN, [1163.0, 1160.6] ----- Total Revenue: 6216.0
+Day 165--The trade EXITS (short) at 1159 profit: 120.0 ----- Total Revenue: 6336.0
+Day 166--No action was taken ----- Total Revenue: 6336.0
+Day 167--The stock was SOLD at price: [1171.05] ----- Total Revenue: 6336.0
+Day 168--The stock is SOLD AGAIN, [1171.05, 1197.15] ----- Total Revenue: 6336.0
+(1, 240000)
+Day 169--The stock is SOLD AGAIN, [1171.05, 1197.15, 1179.65] ----- Total Revenue: 6336.0
+Day 170--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -993663.0
+(1, 240000)
+Day 171--The stock was SOLD at price: [1174.15] ----- Total Revenue: -993663.0
+Day 172--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+Day 173--The stock was BOUGHT at price: [1201.7] ----- Total Revenue: 3000
+Day 174--The stock is HELD with action: 1 ----- Total Revenue: 3000
+Day 175--The stock is BOUGHT AGAIN, [1201.7, 1184.55] ----- Total Revenue: 3000
+(1, 240000)
+Day 176--The trade EXITS (Long) at 1183 profit: -423.0 ----- Total Revenue: 2577.0
+Day 177--The stock was SOLD at price: [1180.85] ----- Total Revenue: 2577.0
+Day 178--The trade EXITS (short) at 1176 profit: 98.0 ----- Total Revenue: 2675.0
+(1, 240000)
+Day 179--The stock was SOLD at price: [1178.4] ----- Total Revenue: 2675.0
+(1, 240000)
+Day 180--The stock is SOLD AGAIN, [1178.4, 1172.45] ----- Total Revenue: 2675.0
+(1, 240000)
+Day 181--The stock is SOLD AGAIN, [1178.4, 1172.45, 1162.35] ----- Total Revenue: 2675.0
+Day 182--The stock is HELD with action: 2 ----- Total Revenue: 2675.0
+Day 183--The trade EXITS (short) at 1172 profit: -68.0 ----- Total Revenue: 2607.0
+Day 184--No action was taken ----- Total Revenue: 2607.0
+Day 185--The stock was SOLD at price: [1178.6] ----- Total Revenue: 2607.0
+Day 186--The stock is HELD with action: 2 ----- Total Revenue: 2607.0
+(1, 240000)
+Day 187--The stock is SOLD AGAIN, [1178.6, 1155.05] ----- Total Revenue: 2607.0
+Day 188--The trade EXITS (short) at 1182 profit: -589.0 ----- Total Revenue: 2018.0
+Day 189--No action was taken ----- Total Revenue: 2018.0
+Day 190--The stock was SOLD at price: [1171.3] ----- Total Revenue: 2018.0
+(1, 240000)
+Day 191--The stock is SOLD AGAIN, [1171.3, 1166.35] ----- Total Revenue: 2018.0
+Day 192--The trade EXITS (short) at 1160 profit: 341.0 ----- Total Revenue: 2359.0
+Day 193--The stock was BOUGHT at price: [1174.3] ----- Total Revenue: 2359.0
+(1, 240000)
+Day 194--The trade EXITS (Long) at 1160 profit: -294.0 ----- Total Revenue: 2065.0
+Day 195--No action was taken ----- Total Revenue: 2065.0
+(1, 240000)
+Day 196--The stock was SOLD at price: [1156.5] ----- Total Revenue: 2065.0
+(1, 240000)
+Day 197--The stock is SOLD AGAIN, [1156.5, 1171.0] ----- Total Revenue: 2065.0
+Day 198--The trade EXITS (short) at 1154 profit: 396.0 ----- Total Revenue: 2461.0
+Day 199--No action was taken ----- Total Revenue: 2461.0
+(1, 240000)
+Day 200--The stock was SOLD at price: [1133.75] ----- Total Revenue: 2461.0
+Day 201--The trade EXITS (short) at 1121 profit: 255.0 ----- Total Revenue: 2716.0
+(1, 240000)
+Day 202--The stock was SOLD at price: [1115.0] ----- Total Revenue: 2716.0
+(1, 240000)
+Day 203--The stock is SOLD AGAIN, [1115.0, 1104.35] ----- Total Revenue: 2716.0
+Day 204--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+Day 205--The stock was SOLD at price: [1135.5] ----- Total Revenue: 3000
+Day 206--The stock is HELD with action: 2 ----- Total Revenue: 3000
+(1, 240000)
+Day 207--The stock is SOLD AGAIN, [1135.5, 1117.4] ----- Total Revenue: 3000
+(1, 240000)
+Day 208--The stock is SOLD AGAIN, [1135.5, 1117.4, 1116.55] ----- Total Revenue: 3000
+Day 209--The trade EXITS (short) at 1123 profit: -18.0 ----- Total Revenue: 2982.0
+(1, 240000)
+Day 210--The stock was SOLD at price: [1118.7] ----- Total Revenue: 2982.0
+Day 211--The trade EXITS (short) at 1137 profit: -369.0 ----- Total Revenue: 2613.0
+(1, 240000)
+Day 212--The stock was SOLD at price: [1137.7] ----- Total Revenue: 2613.0
+Day 213--The trade EXITS (short) at 1136 profit: 44.0 ----- Total Revenue: 2657.0
+(1, 240000)
+Day 214--The stock was SOLD at price: [1137.9] ----- Total Revenue: 2657.0
+Day 215--The stock is HELD with action: 2 ----- Total Revenue: 2657.0
+(1, 240000)
+Day 216--The stock is SOLD AGAIN, [1137.9, 1150.75] ----- Total Revenue: 2657.0
+(1, 240000)
+Day 217--The stock is SOLD AGAIN, [1137.9, 1150.75, 1149.05] ----- Total Revenue: 2657.0
+Day 218--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -997342.0
+Day 219--The stock was SOLD at price: [1158.5] ----- Total Revenue: -997342.0
+(1, 240000)
+Day 220--The stock is SOLD AGAIN, [1158.5, 1143.65] ----- Total Revenue: -997342.0
+Day 221--The trade EXITS (short) at 1143 profit: 333.0 ----- Total Revenue: -997009.0
+Day 222--No action was taken ----- Total Revenue: -997009.0
+(1, 240000)
+Day 223--The stock was SOLD at price: [1172.05] ----- Total Revenue: -997009.0
+Day 224--The trade EXITS (short) at 1185 profit: -264.0 ----- Total Revenue: -997273.0
+Day 225--The stock was BOUGHT at price: [1182.0] ----- Total Revenue: -997273.0
+(1, 240000)
+Day 226--The trade EXITS (Long) at 1193 profit: 221.0 ----- Total Revenue: -997052.0
+(1, 240000)
+Day 227--The stock was SOLD at price: [1177.4] ----- Total Revenue: -997052.0
+(1, 240000)
+Day 228--The stock is SOLD AGAIN, [1177.4, 1188.95] ----- Total Revenue: -997052.0
+Day 229--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+Day 230--The stock was BOUGHT at price: [1204.05] ----- Total Revenue: 3000
+Day 231--The stock is HELD with action: 1 ----- Total Revenue: 3000
+Day 232--The trade EXITS (Long) at 1194 profit: -206.0 ----- Total Revenue: 2794.0
+Day 233--The stock was BOUGHT at price: [1188.25] ----- Total Revenue: 2794.0
+(1, 240000)
+Day 234--The trade EXITS (Long) at 1190 profit: 33.0 ----- Total Revenue: 2827.0
+Day 235--No action was taken ----- Total Revenue: 2827.0
+(1, 240000)
+Day 236--The stock was SOLD at price: [1169.9] ----- Total Revenue: 2827.0
+Day 237--The stock is HELD with action: 2 ----- Total Revenue: 2827.0
+(1, 240000)
+Day 238--The stock is SOLD AGAIN, [1169.9, 1150.45] ----- Total Revenue: 2827.0
+Day 239--The stock is SOLD AGAIN, [1169.9, 1150.45, 1152.05] ----- Total Revenue: 2827.0
+Day 240--The stock is HELD with action: 2 ----- Total Revenue: 2827.0
+(1, 240000)
+Day 241--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -997172.0
+Day 242--No action was taken ----- Total Revenue: -997172.0
+(1, 240000)
+Day 243--The stock was SOLD at price: [1137.9] ----- Total Revenue: -997172.0
+(1, 240000)
+Day 244--The stock is SOLD AGAIN, [1137.9, 1134.1] ----- Total Revenue: -997172.0
+(1, 240000)
+Day 245--The stock is SOLD AGAIN, [1137.9, 1134.1, 1110.25] ----- Total Revenue: -997172.0
+Day 246--The trade EXITS (short) at 1121 profit: 379.0 ----- Total Revenue: -996793.0
+(1, 240000)
+Day 247--The stock was SOLD at price: [1124.05] ----- Total Revenue: -996793.0
+Day 248--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+(1, 240000)
+Day 249--The stock was SOLD at price: [1144.4] ----- Total Revenue: 3000
+(1, 240000)
+Day 250--The stock is SOLD AGAIN, [1144.4, 1139.15] ----- Total Revenue: 3000
+Day 251--The stock is SOLD AGAIN, [1144.4, 1139.15, 1135.45] ----- Total Revenue: 3000
+Day 252--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -996999
+Day 253--The stock was BOUGHT at price: [1120.35] ----- Total Revenue: -996999
+(1, 240000)
+Day 254--The trade EXITS (Long) at 1126 profit: 121.0 ----- Total Revenue: -996878.0
+Day 255--The stock was SOLD at price: [1127.2] ----- Total Revenue: -996878.0
+Day 256--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+Day 257--The stock was SOLD at price: [1101.8] ----- Total Revenue: 3000
+(1, 240000)
+Day 258--The stock is SOLD AGAIN, [1101.8, 1104.8] ----- Total Revenue: 3000
+(1, 240000)
+Day 259--The stock is SOLD AGAIN, [1101.8, 1104.8, 1110.35] ----- Total Revenue: 3000
+Day 260--The trade EXITS (short) at 1118 profit: -726.0 ----- Total Revenue: 2274.0
+(1, 240000)
+Day 261--The stock was SOLD at price: [1118.9] ----- Total Revenue: 2274.0
+Day 262--The stock is HELD with action: 2 ----- Total Revenue: 2274.0
+Day 263--The trade EXITS (short) at 1102 profit: 346.0 ----- Total Revenue: 2620.0
+(1, 240000)
+Day 264--The stock was SOLD at price: [1107.25] ----- Total Revenue: 2620.0
+Day 265--The stock is HELD with action: 2 ----- Total Revenue: 2620.0
+(1, 240000)
+Day 266--The stock is SOLD AGAIN, [1107.25, 1129.1] ----- Total Revenue: 2620.0
+(1, 240000)
+Day 267--The stock is SOLD AGAIN, [1107.25, 1129.1, 1131.5] ----- Total Revenue: 2620.0
+(1, 240000)
+Day 268--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -997379.0
+(1, 240000)
+Day 269--The stock was SOLD at price: [1137.0] ----- Total Revenue: -997379.0
+Day 270--The stock is SOLD AGAIN, [1137.0, 1160.8] ----- Total Revenue: -997379.0
+(1, 240000)
+Day 271--The stock is SOLD AGAIN, [1137.0, 1160.8, 1122.75] ----- Total Revenue: -997379.0
+(1, 240000)
+Day 272--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -1997378.0
+Day 273--The stock was BOUGHT at price: [1106.5] ----- Total Revenue: -1997378.0
+(1, 240000)
+Day 274--The trade EXITS (Long) at 1104 profit: -59.0 ----- Total Revenue: -1997437.0
+(1, 240000)
+Day 275--The stock was SOLD at price: [1107.1] ----- Total Revenue: -1997437.0
+(1, 240000)
+Day 276--The stock is SOLD AGAIN, [1107.1, 1112.65] ----- Total Revenue: -1997437.0
+(1, 240000)
+Day 277--The stock is SOLD AGAIN, [1107.1, 1112.65, 1117.55] ----- Total Revenue: -1997437.0
+Day 278--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+(1, 240000)
+Day 279--The stock was SOLD at price: [1120.4] ----- Total Revenue: 3000
+Day 280--The stock is SOLD AGAIN, [1120.4, 1150.15] ----- Total Revenue: 3000
+(1, 240000)
+Day 281--The stock is SOLD AGAIN, [1120.4, 1150.15, 1152.1] ----- Total Revenue: 3000
+Day 282--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -996999
+(1, 240000)
+Day 283--The stock was SOLD at price: [1142.9] ----- Total Revenue: -996999
+(1, 240000)
+Day 284--The stock is SOLD AGAIN, [1142.9, 1143.5] ----- Total Revenue: -996999
+(1, 240000)
+Day 285--The stock is SOLD AGAIN, [1142.9, 1143.5, 1157.45] ----- Total Revenue: -996999
+(1, 240000)
+Day 286--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -1996998
+(1, 240000)
+Day 287--The stock was SOLD at price: [1155.85] ----- Total Revenue: -1996998
+(1, 240000)
+Day 288--The stock is SOLD AGAIN, [1155.85, 1165.2] ----- Total Revenue: -1996998
+Day 289--The trade EXITS (short) at 1162 profit: -67.0 ----- Total Revenue: -1997065.0
+Day 290--No action was taken ----- Total Revenue: -1997065.0
+(1, 240000)
+Day 291--The stock was SOLD at price: [1176.0] ----- Total Revenue: -1997065.0
+Day 292--The stock is SOLD AGAIN, [1176.0, 1172.3] ----- Total Revenue: -1997065.0
+Day 293--The trade EXITS (short) at 1165 profit: 366.0 ----- Total Revenue: -1996699.0
+(1, 240000)
+Day 294--The stock was SOLD at price: [1159.35] ----- Total Revenue: -1996699.0
+Day 295--The trade EXITS (short) at 1179 profit: -387.0 ----- Total Revenue: -1997086.0
+(1, 240000)
+Day 296--The stock was SOLD at price: [1170.1] ----- Total Revenue: -1997086.0
+(1, 240000)
+Day 297--The stock is SOLD AGAIN, [1170.1, 1163.05] ----- Total Revenue: -1997086.0
+(1, 240000)
+Day 298--The stock is SOLD AGAIN, [1170.1, 1163.05, 1155.7] ----- Total Revenue: -1997086.0
+Day 299--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+Day 300--The stock was SOLD at price: [1201.7] ----- Total Revenue: 3000
+Day 301--The stock is SOLD AGAIN, [1201.7, 1222.3] ----- Total Revenue: 3000
+Day 302--The trade EXITS (short) at 1207 profit: 210.0 ----- Total Revenue: 3210.0
+(1, 240000)
+Day 303--The stock was SOLD at price: [1190.45] ----- Total Revenue: 3210.0
+(1, 240000)
+Day 304--The stock is SOLD AGAIN, [1190.45, 1215.25] ----- Total Revenue: 3210.0
+Day 305--The stock is HELD with action: 2 ----- Total Revenue: 3210.0
+(1, 240000)
+Day 306--The stock is SOLD AGAIN, [1190.45, 1215.25, 1222.55] ----- Total Revenue: 3210.0
+(1, 240000)
+Day 307--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -996789.0
+(1, 240000)
+Day 308--The stock was SOLD at price: [1286.45] ----- Total Revenue: -996789.0
+(1, 240000)
+Day 309--The stock is SOLD AGAIN, [1286.45, 1297.35] ----- Total Revenue: -996789.0
+(1, 240000)
+Day 310--The stock is SOLD AGAIN, [1286.45, 1297.35, 1314.65] ----- Total Revenue: -996789.0
+(1, 240000)
+Day 311--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -1996788.0
+(1, 240000)
+Day 312--The stock was SOLD at price: [1309.45] ----- Total Revenue: -1996788.0
+(1, 240000)
+Day 313--The stock is SOLD AGAIN, [1309.45, 1308.35] ----- Total Revenue: -1996788.0
+Day 314--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+Day 315--The stock was BOUGHT at price: [1286.85] ----- Total Revenue: 3000
+Day 316--The stock is BOUGHT AGAIN, [1286.85, 1278.6] ----- Total Revenue: 3000
+(1, 240000)
+Day 317--The trade EXITS (Long) at 1294 profit: 435.0 ----- Total Revenue: 3435.0
+(1, 240000)
+Day 318--The stock was SOLD at price: [1292.35] ----- Total Revenue: 3435.0
+(1, 240000)
+Day 319--The stock is SOLD AGAIN, [1292.35, 1321.85] ----- Total Revenue: 3435.0
+(1, 240000)
+Day 320--The stock is SOLD AGAIN, [1292.35, 1321.85, 1299.5] ----- Total Revenue: 3435.0
+(1, 240000)
+Day 321--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -996564.0
+(1, 240000)
+Day 322--The stock was SOLD at price: [1304.65] ----- Total Revenue: -996564.0
+(1, 240000)
+Day 323--The stock is SOLD AGAIN, [1304.65, 1293.05] ----- Total Revenue: -996564.0
+(1, 240000)
+Day 324--The stock is SOLD AGAIN, [1304.65, 1293.05, 1284.45] ----- Total Revenue: -996564.0
+(1, 240000)
+Day 325--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -1996563.0
+(1, 240000)
+Day 326--The stock was SOLD at price: [1262.8] ----- Total Revenue: -1996563.0
+(1, 240000)
+Day 327--The stock is SOLD AGAIN, [1262.8, 1290.8] ----- Total Revenue: -1996563.0
+(1, 240000)
+Day 328--The stock is SOLD AGAIN, [1262.8, 1290.8, 1278.85] ----- Total Revenue: -1996563.0
+Day 329--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+(1, 240000)
+Day 330--The stock was SOLD at price: [1287.7] ----- Total Revenue: 3000
+Day 331--The stock is HELD with action: 2 ----- Total Revenue: 3000
+Day 332--The stock is SOLD AGAIN, [1287.7, 1286.1] ----- Total Revenue: 3000
+Day 333--The stock is HELD with action: 2 ----- Total Revenue: 3000
+(1, 240000)
+Day 334--The stock is SOLD AGAIN, [1287.7, 1286.1, 1282.05] ----- Total Revenue: 3000
+(1, 240000)
+Day 335--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -996999
+(1, 240000)
+Day 336--The stock was SOLD at price: [1271.3] ----- Total Revenue: -996999
+(1, 240000)
+Day 337--The stock is SOLD AGAIN, [1271.3, 1253.0] ----- Total Revenue: -996999
+(1, 240000)
+Day 338--The stock is SOLD AGAIN, [1271.3, 1253.0, 1267.7] ----- Total Revenue: -996999
+(1, 240000)
+Day 339--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -1996998
+(1, 240000)
+Day 340--The stock was SOLD at price: [1274.6] ----- Total Revenue: -1996998
+Day 341--The stock is SOLD AGAIN, [1274.6, 1267.15] ----- Total Revenue: -1996998
+(1, 240000)
+Day 342--The stock is SOLD AGAIN, [1274.6, 1267.15, 1268.4] ----- Total Revenue: -1996998
+Day 343--The trade EXITS (short) at 1264 profit: 336.0 ----- Total Revenue: -1996662.0
+Day 344--The stock was SOLD at price: [1293.05] ----- Total Revenue: -1996662.0
+(1, 240000)
+Day 345--The stock is SOLD AGAIN, [1293.05, 1291.85] ----- Total Revenue: -1996662.0
+Day 346--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+Day 347--The stock was SOLD at price: [1321.4] ----- Total Revenue: 3000
+(1, 240000)
+Day 348--The stock is SOLD AGAIN, [1321.4, 1323.15] ----- Total Revenue: 3000
+(1, 240000)
+Day 349--The stock is SOLD AGAIN, [1321.4, 1323.15, 1363.1] ----- Total Revenue: 3000
+Day 350--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+Day 351--The stock was BOUGHT at price: [1359.8] ----- Total Revenue: 3000
+(1, 240000)
+Day 352--The trade EXITS (Long) at 1358 profit: -38.0 ----- Total Revenue: 2962.0
+Day 353--The stock was BOUGHT at price: [1367.8] ----- Total Revenue: 2962.0
+(1, 240000)
+Day 354--The trade EXITS (Long) at 1360 profit: -165.0 ----- Total Revenue: 2797.0
+(1, 240000)
+Day 355--The stock was SOLD at price: [1376.25] ----- Total Revenue: 2797.0
+(1, 240000)
+Day 356--The stock is SOLD AGAIN, [1376.25, 1393.0] ----- Total Revenue: 2797.0
+(1, 240000)
+Day 357--The stock is SOLD AGAIN, [1376.25, 1393.0, 1403.0] ----- Total Revenue: 2797.0
+(1, 240000)
+Day 358--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -997202.0
+(1, 240000)
+Day 359--The stock was SOLD at price: [1433.2] ----- Total Revenue: -997202.0
+(1, 240000)
+Day 360--The stock is SOLD AGAIN, [1433.2, 1467.75] ----- Total Revenue: -997202.0
+(1, 240000)
+Day 361--The stock is SOLD AGAIN, [1433.2, 1467.75, 1450.15] ----- Total Revenue: -997202.0
+(1, 240000)
+Day 362--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -1997201.0
+(1, 240000)
+Day 363--The stock was SOLD at price: [1434.85] ----- Total Revenue: -1997201.0
+(1, 240000)
+Day 364--The stock is SOLD AGAIN, [1434.85, 1430.2] ----- Total Revenue: -1997201.0
+(1, 240000)
+Day 365--The stock is SOLD AGAIN, [1434.85, 1430.2, 1451.4] ----- Total Revenue: -1997201.0
+(1, 240000)
+Day 366--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -2997200.0
+(1, 240000)
+Day 367--The stock was SOLD at price: [1418.4] ----- Total Revenue: -2997200.0
+(1, 240000)
+Day 368--The stock is SOLD AGAIN, [1418.4, 1411.85] ----- Total Revenue: -2997200.0
+(1, 240000)
+Day 369--The stock is SOLD AGAIN, [1418.4, 1411.85, 1397.4] ----- Total Revenue: -2997200.0
+(1, 240000)
+Day 370--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -3997199.0
+Day 371--The stock was BOUGHT at price: [1425.75] ----- Total Revenue: -3997199.0
+(1, 240000)
+Day 372--The trade EXITS (Long) at 1417 profit: -168.0 ----- Total Revenue: -3997367.0
+(1, 240000)
+Day 373--The stock was SOLD at price: [1418.6] ----- Total Revenue: -3997367.0
+(1, 240000)
+Day 374--The stock is SOLD AGAIN, [1418.6, 1399.25] ----- Total Revenue: -3997367.0
+(1, 240000)
+Day 375--The stock is SOLD AGAIN, [1418.6, 1399.25, 1395.1] ----- Total Revenue: -3997367.0
+Day 376--The trade EXITS (short) at 1395 profit: 571.0 ----- Total Revenue: -3996796.0
+(1, 240000)
+Day 377--The stock was SOLD at price: [1400.65] ----- Total Revenue: -3996796.0
+Day 378--The trade EXITS (short) at 1409 profit: -169.0 ----- Total Revenue: -3996965.0
+(1, 240000)
+Day 379--The stock was SOLD at price: [1403.3] ----- Total Revenue: -3996965.0
+Day 380--The trade EXITS (short) at 1395 profit: 171.0 ----- Total Revenue: -3996794.0
+(1, 240000)
+Day 381--The stock was SOLD at price: [1393.5] ----- Total Revenue: -3996794.0
+(1, 240000)
+Day 382--The stock is SOLD AGAIN, [1393.5, 1399.8] ----- Total Revenue: -3996794.0
+(1, 240000)
+Day 383--The stock is SOLD AGAIN, [1393.5, 1399.8, 1407.5] ----- Total Revenue: -3996794.0
+(1, 240000)
+Day 384--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -4996793.0
+(1, 240000)
+Day 385--The stock was SOLD at price: [1378.7] ----- Total Revenue: -4996793.0
+(1, 240000)
+Day 386--The stock is SOLD AGAIN, [1378.7, 1372.45] ----- Total Revenue: -4996793.0
+(1, 240000)
+Day 387--The stock is SOLD AGAIN, [1378.7, 1372.45, 1361.6] ----- Total Revenue: -4996793.0
+(1, 240000)
+Day 388--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -5996792.0
+(1, 240000)
+Day 389--The stock was SOLD at price: [1321.3] ----- Total Revenue: -5996792.0
+Day 390--The trade EXITS (short) at 1314 profit: 136.0 ----- Total Revenue: -5996656.0
+(1, 240000)
+Day 391--The stock was SOLD at price: [1316.0] ----- Total Revenue: -5996656.0
+(1, 240000)
+Day 392--The stock is SOLD AGAIN, [1316.0, 1293.1] ----- Total Revenue: -5996656.0
+(1, 240000)
+Day 393--The stock is SOLD AGAIN, [1316.0, 1293.1, 1297.85] ----- Total Revenue: -5996656.0
+(1, 240000)
+Day 394--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -6996655.0
+(1, 240000)
+Day 395--The stock was SOLD at price: [1333.9] ----- Total Revenue: -6996655.0
+Day 396--The trade EXITS (short) at 1309 profit: 505.0 ----- Total Revenue: -6996150.0
+Day 397--The stock was SOLD at price: [1292.1] ----- Total Revenue: -6996150.0
+(1, 240000)
+Day 398--The stock is SOLD AGAIN, [1292.1, 1291.35] ----- Total Revenue: -6996150.0
+Day 399--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+(1, 240000)
+Day 400--The stock was SOLD at price: [1271.95] ----- Total Revenue: 3000
+(1, 240000)
+Day 401--The stock is SOLD AGAIN, [1271.95, 1289.9] ----- Total Revenue: 3000
+(1, 240000)
+Day 402--The stock is SOLD AGAIN, [1271.95, 1289.9, 1282.0] ----- Total Revenue: 3000
+Day 403--The stock is HELD with action: 2 ----- Total Revenue: 3000
+(1, 240000)
+Day 404--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -996999
+(1, 240000)
+Day 405--The stock was SOLD at price: [1279.8] ----- Total Revenue: -996999
+(1, 240000)
+Day 406--The stock is SOLD AGAIN, [1279.8, 1251.75] ----- Total Revenue: -996999
+Day 407--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+(1, 240000)
+Day 408--The stock was SOLD at price: [1209.5] ----- Total Revenue: 3000
+(1, 240000)
+Day 409--The stock is SOLD AGAIN, [1209.5, 1247.8] ----- Total Revenue: 3000
+(1, 240000)
+Day 410--The stock is SOLD AGAIN, [1209.5, 1247.8, 1201.4] ----- Total Revenue: 3000
+(1, 240000)
+Day 411--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -996999
+(1, 240000)
+Day 412--The stock was SOLD at price: [1219.05] ----- Total Revenue: -996999
+(1, 240000)
+Day 413--The stock is SOLD AGAIN, [1219.05, 1261.2] ----- Total Revenue: -996999
+(1, 240000)
+Day 414--The stock is SOLD AGAIN, [1219.05, 1261.2, 1250.3] ----- Total Revenue: -996999
+Day 415--The trade EXITS (short) at 1268 profit: -1445.0 ----- Total Revenue: -998444.0
+(1, 240000)
+Day 416--The stock was SOLD at price: [1259.0] ----- Total Revenue: -998444.0
+(1, 240000)
+Day 417--The stock is SOLD AGAIN, [1259.0, 1235.4] ----- Total Revenue: -998444.0
+(1, 240000)
+Day 418--The stock is SOLD AGAIN, [1259.0, 1235.4, 1200.4] ----- Total Revenue: -998444.0
+(1, 240000)
+Day 419--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -1998443.0
+(1, 240000)
+Day 420--The stock was SOLD at price: [1186.9] ----- Total Revenue: -1998443.0
+(1, 240000)
+Day 421--The stock is SOLD AGAIN, [1186.9, 1200.05] ----- Total Revenue: -1998443.0
+(1, 240000)
+Day 422--The stock is SOLD AGAIN, [1186.9, 1200.05, 1190.3] ----- Total Revenue: -1998443.0
+Day 423--The trade EXITS (short) at 1196 profit: -218.0 ----- Total Revenue: -1998661.0
+(1, 240000)
+Day 424--The stock was SOLD at price: [1196.3] ----- Total Revenue: -1998661.0
+(1, 240000)
+Day 425--The stock is SOLD AGAIN, [1196.3, 1230.4] ----- Total Revenue: -1998661.0
+(1, 240000)
+Day 426--The stock is SOLD AGAIN, [1196.3, 1230.4, 1217.8] ----- Total Revenue: -1998661.0
+(1, 240000)
+Day 427--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -2998660.0
+(1, 240000)
+Day 428--The stock was SOLD at price: [1244.05] ----- Total Revenue: -2998660.0
+(1, 240000)
+Day 429--The stock is SOLD AGAIN, [1244.05, 1238.5] ----- Total Revenue: -2998660.0
+Day 430--The stock is SOLD AGAIN, [1244.05, 1238.5, 1250.95] ----- Total Revenue: -2998660.0
+(1, 240000)
+Day 431--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -3998659.0
+(1, 240000)
+Day 432--The stock was SOLD at price: [1278.8] ----- Total Revenue: -3998659.0
+(1, 240000)
+Day 433--The stock is SOLD AGAIN, [1278.8, 1284.9] ----- Total Revenue: -3998659.0
+(1, 240000)
+Day 434--The stock is SOLD AGAIN, [1278.8, 1284.9, 1320.55] ----- Total Revenue: -3998659.0
+(1, 240000)
+Day 435--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -4998658.0
+(1, 240000)
+Day 436--The stock was SOLD at price: [1321.3] ----- Total Revenue: -4998658.0
+(1, 240000)
+Day 437--The stock is SOLD AGAIN, [1321.3, 1312.15] ----- Total Revenue: -4998658.0
+(1, 240000)
+Day 438--The stock is SOLD AGAIN, [1321.3, 1312.15, 1306.85] ----- Total Revenue: -4998658.0
+(1, 240000)
+Day 439--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -5998657.0
+(1, 240000)
+Day 440--The stock was SOLD at price: [1314.4] ----- Total Revenue: -5998657.0
+(1, 240000)
+Day 441--The stock is SOLD AGAIN, [1314.4, 1349.5] ----- Total Revenue: -5998657.0
+(1, 240000)
+Day 442--The stock is SOLD AGAIN, [1314.4, 1349.5, 1339.6] ----- Total Revenue: -5998657.0
+(1, 240000)
+Day 443--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -6998656.0
+(1, 240000)
+Day 444--The stock was SOLD at price: [1350.3] ----- Total Revenue: -6998656.0
+Day 445--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+(1, 240000)
+Day 446--The stock was SOLD at price: [1338.7] ----- Total Revenue: 3000
+(1, 240000)
+Day 447--The stock is SOLD AGAIN, [1338.7, 1329.45] ----- Total Revenue: 3000
+(1, 240000)
+Day 448--The stock is SOLD AGAIN, [1338.7, 1329.45, 1329.5] ----- Total Revenue: 3000
+(1, 240000)
+Day 449--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -996999
+(1, 240000)
+Day 450--The stock was SOLD at price: [1318.65] ----- Total Revenue: -996999
+(1, 240000)
+Day 451--The stock is SOLD AGAIN, [1318.65, 1274.2] ----- Total Revenue: -996999
+(1, 240000)
+Day 452--The stock is SOLD AGAIN, [1318.65, 1274.2, 1323.6] ----- Total Revenue: -996999
+(1, 240000)
+Day 453--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -1996998
+(1, 240000)
+Day 454--The stock was SOLD at price: [1320.2] ----- Total Revenue: -1996998
+Day 455--The stock is SOLD AGAIN, [1320.2, 1340.95] ----- Total Revenue: -1996998
+(1, 240000)
+Day 456--The stock is SOLD AGAIN, [1320.2, 1340.95, 1335.85] ----- Total Revenue: -1996998
+(1, 240000)
+Day 457--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -2996997
+(1, 240000)
+Day 458--The stock was SOLD at price: [1400.25] ----- Total Revenue: -2996997
+(1, 240000)
+Day 459--The stock is SOLD AGAIN, [1400.25, 1425.8] ----- Total Revenue: -2996997
+(1, 240000)
+Day 460--The stock is SOLD AGAIN, [1400.25, 1425.8, 1388.2] ----- Total Revenue: -2996997
+(1, 240000)
+Day 461--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -3996996
+(1, 240000)
+Day 462--The stock was SOLD at price: [1363.0] ----- Total Revenue: -3996996
+(1, 240000)
+Day 463--The stock is SOLD AGAIN, [1363.0, 1372.5] ----- Total Revenue: -3996996
+(1, 240000)
+Day 464--The stock is SOLD AGAIN, [1363.0, 1372.5, 1366.0] ----- Total Revenue: -3996996
+(1, 240000)
+Day 465--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -4996995
+(1, 240000)
+Day 466--The stock was SOLD at price: [1371.55] ----- Total Revenue: -4996995
+(1, 240000)
+Day 467--The stock is SOLD AGAIN, [1371.55, 1383.3] ----- Total Revenue: -4996995
+(1, 240000)
+Day 468--The stock is SOLD AGAIN, [1371.55, 1383.3, 1388.3] ----- Total Revenue: -4996995
+Day 469--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -5996994
+(1, 240000)
+Day 470--The stock was SOLD at price: [1396.0] ----- Total Revenue: -5996994
+(1, 240000)
+Day 471--The stock is SOLD AGAIN, [1396.0, 1401.25] ----- Total Revenue: -5996994
+(1, 240000)
+Day 472--The stock is SOLD AGAIN, [1396.0, 1401.25, 1402.0] ----- Total Revenue: -5996994
+Day 473--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+(1, 240000)
+Day 474--The stock was SOLD at price: [1403.65] ----- Total Revenue: 3000
+Day 475--The stock is SOLD AGAIN, [1403.65, 1388.6] ----- Total Revenue: 3000
+(1, 240000)
+Day 476--The stock is SOLD AGAIN, [1403.65, 1388.6, 1405.95] ----- Total Revenue: 3000
+(1, 240000)
+Day 477--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -996999
+(1, 240000)
+Day 478--The stock was SOLD at price: [1389.6] ----- Total Revenue: -996999
+(1, 240000)
+Day 479--The stock is SOLD AGAIN, [1389.6, 1400.45] ----- Total Revenue: -996999
+(1, 240000)
+Day 480--The stock is SOLD AGAIN, [1389.6, 1400.45, 1422.1] ----- Total Revenue: -996999
+(1, 240000)
+Day 481--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -1996998
+(1, 240000)
+Day 482--The stock was SOLD at price: [1396.55] ----- Total Revenue: -1996998
+Day 483--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+Day 484--No action was taken ----- Total Revenue: 3000
+(1, 240000)
+Day 485--The stock was SOLD at price: [1379.5] ----- Total Revenue: 3000
+(1, 240000)
+Day 486--The stock is SOLD AGAIN, [1379.5, 1393.3] ----- Total Revenue: 3000
+(1, 240000)
+Day 487--The stock is SOLD AGAIN, [1379.5, 1393.3, 1390.4] ----- Total Revenue: 3000
+(1, 240000)
+Day 488--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -996999
+Day 489--The stock was BOUGHT at price: [1457.2] ----- Total Revenue: -996999
+Day 490--The trade EXITS (Long) at 1446 profit: -217.0 ----- Total Revenue: -997216.0
+(1, 240000)
+Day 491--The stock was SOLD at price: [1450.35] ----- Total Revenue: -997216.0
+(1, 240000)
+Day 492--The stock is SOLD AGAIN, [1450.35, 1469.4] ----- Total Revenue: -997216.0
+(1, 240000)
+Day 493--The stock is SOLD AGAIN, [1450.35, 1469.4, 1472.45] ----- Total Revenue: -997216.0
+(1, 240000)
+Day 494--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -1997215.0
+(1, 240000)
+Day 495--The stock was SOLD at price: [1437.1] ----- Total Revenue: -1997215.0
+(1, 240000)
+Day 496--The stock is SOLD AGAIN, [1437.1, 1452.1] ----- Total Revenue: -1997215.0
+Day 497--The trade EXITS (short) at 1424 profit: 818.0 ----- Total Revenue: -1996397.0
+Day 498--The stock was BOUGHT at price: [1399.2] ----- Total Revenue: -1996397.0
+Day 499--The stock is BOUGHT AGAIN, [1399.2, 1393.6] ----- Total Revenue: -1996397.0
+(1, 240000)
+Day 500--The trade EXITS (Long) at 1380 profit: -654.0 ----- Total Revenue: -1997051.0
+(1, 240000)
+Day 501--The stock was SOLD at price: [1377.85] ----- Total Revenue: -1997051.0
+(1, 240000)
+Day 502--The stock is SOLD AGAIN, [1377.85, 1396.9] ----- Total Revenue: -1997051.0
+Day 503--The trade EXITS (short) at 1398 profit: -417.0 ----- Total Revenue: -1997468.0
+(1, 240000)
+Day 504--The stock was SOLD at price: [1397.8] ----- Total Revenue: -1997468.0
+(1, 240000)
+Day 505--The stock is SOLD AGAIN, [1397.8, 1398.25] ----- Total Revenue: -1997468.0
+(1, 240000)
+Day 506--The stock is SOLD AGAIN, [1397.8, 1398.25, 1402.0] ----- Total Revenue: -1997468.0
+(1, 240000)
+Day 507--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -2997467.0
+Day 508--The stock was SOLD at price: [1405.2] ----- Total Revenue: -2997467.0
+(1, 240000)
+Day 509--The stock is SOLD AGAIN, [1405.2, 1392.35] ----- Total Revenue: -2997467.0
+(1, 240000)
+Day 510--The stock is SOLD AGAIN, [1405.2, 1392.35, 1403.85] ----- Total Revenue: -2997467.0
+(1, 240000)
+Day 511--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -3997466.0
+(1, 240000)
+Day 512--The stock was SOLD at price: [1395.45] ----- Total Revenue: -3997466.0
+(1, 240000)
+Day 513--The stock is SOLD AGAIN, [1395.45, 1382.35] ----- Total Revenue: -3997466.0
+(1, 240000)
+Day 514--The stock is SOLD AGAIN, [1395.45, 1382.35, 1419.8] ----- Total Revenue: -3997466.0
+(1, 240000)
+Day 515--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -4997465.0
+Day 516--The stock was BOUGHT at price: [1428.3] ----- Total Revenue: -4997465.0
+(1, 240000)
+Day 517--The trade EXITS (Long) at 1435 profit: 129.0 ----- Total Revenue: -4997336.0
+(1, 240000)
+Day 518--The stock was SOLD at price: [1432.55] ----- Total Revenue: -4997336.0
+(1, 240000)
+Day 519--The stock is SOLD AGAIN, [1432.55, 1445.6] ----- Total Revenue: -4997336.0
+(1, 240000)
+Day 520--The stock is SOLD AGAIN, [1432.55, 1445.6, 1453.9] ----- Total Revenue: -4997336.0
+(1, 240000)
+Day 521--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -5997335.0
+(1, 240000)
+Day 522--The stock was SOLD at price: [1471.25] ----- Total Revenue: -5997335.0
+(1, 240000)
+Day 523--The stock is SOLD AGAIN, [1471.25, 1457.55] ----- Total Revenue: -5997335.0
+(1, 240000)
+Day 524--The stock is SOLD AGAIN, [1471.25, 1457.55, 1485.05] ----- Total Revenue: -5997335.0
+(1, 240000)
+Day 525--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -6997334.0
+(1, 240000)
+Day 526--The stock was SOLD at price: [1497.0] ----- Total Revenue: -6997334.0
+(1, 240000)
+Day 527--The stock is SOLD AGAIN, [1497.0, 1492.7] ----- Total Revenue: -6997334.0
+Day 528--The trade EXITS (short) at 1493 profit: 84.0 ----- Total Revenue: -6997250.0
+Day 529--No action was taken ----- Total Revenue: -6997250.0
+(1, 240000)
+Day 530--The stock was SOLD at price: [1497.6] ----- Total Revenue: -6997250.0
+Day 531--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+(1, 240000)
+Day 532--The stock was SOLD at price: [1514.45] ----- Total Revenue: 3000
+(1, 240000)
+Day 533--The stock is SOLD AGAIN, [1514.45, 1496.35] ----- Total Revenue: 3000
+Day 534--The trade EXITS (short) at 1445 profit: 2422.0 ----- Total Revenue: 5422.0
+(1, 240000)
+Day 535--The stock was SOLD at price: [1409.85] ----- Total Revenue: 5422.0
+(1, 240000)
+Day 536--The stock is SOLD AGAIN, [1409.85, 1423.15] ----- Total Revenue: 5422.0
+(1, 240000)
+Day 537--The stock is SOLD AGAIN, [1409.85, 1423.15, 1438.65] ----- Total Revenue: 5422.0
+(1, 240000)
+Day 538--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -994577.0
+(1, 240000)
+Day 539--The stock was SOLD at price: [1459.0] ----- Total Revenue: -994577.0
+(1, 240000)
+Day 540--The stock is SOLD AGAIN, [1459.0, 1469.6] ----- Total Revenue: -994577.0
+Day 541--The trade EXITS (short) at 1443 profit: 838.0 ----- Total Revenue: -993739.0
+(1, 240000)
+Day 542--The stock was SOLD at price: [1431.0] ----- Total Revenue: -993739.0
+(1, 240000)
+Day 543--The stock is SOLD AGAIN, [1431.0, 1450.05] ----- Total Revenue: -993739.0
+Day 544--The trade EXITS (short) at 1448 profit: -297.0 ----- Total Revenue: -994036.0
+(1, 240000)
+Day 545--The stock was SOLD at price: [1448.75] ----- Total Revenue: -994036.0
+(1, 240000)
+Day 546--The stock is SOLD AGAIN, [1448.75, 1463.15] ----- Total Revenue: -994036.0
+(1, 240000)
+Day 547--The stock is SOLD AGAIN, [1448.75, 1463.15, 1436.6] ----- Total Revenue: -994036.0
+Day 548--The trade EXITS (short) at 1439 profit: 657.0 ----- Total Revenue: -993379.0
+(1, 240000)
+Day 549--The stock was SOLD at price: [1412.8] ----- Total Revenue: -993379.0
+(1, 240000)
+Day 550--The stock is SOLD AGAIN, [1412.8, 1387.8] ----- Total Revenue: -993379.0
+(1, 240000)
+Day 551--The stock is SOLD AGAIN, [1412.8, 1387.8, 1385.7] ----- Total Revenue: -993379.0
+(1, 240000)
+Day 552--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -1993378.0
+(1, 240000)
+Day 553--The stock was SOLD at price: [1341.05] ----- Total Revenue: -1993378.0
+(1, 240000)
+Day 554--The stock is SOLD AGAIN, [1341.05, 1332.5] ----- Total Revenue: -1993378.0
+(1, 240000)
+Day 555--The stock is SOLD AGAIN, [1341.05, 1332.5, 1320.25] ----- Total Revenue: -1993378.0
+(1, 240000)
+Day 556--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -2993377.0
+(1, 240000)
+Day 557--The stock was SOLD at price: [1304.4] ----- Total Revenue: -2993377.0
+(1, 240000)
+Day 558--The stock is SOLD AGAIN, [1304.4, 1320.0] ----- Total Revenue: -2993377.0
+(1, 240000)
+Day 559--The stock is SOLD AGAIN, [1304.4, 1320.0, 1373.95] ----- Total Revenue: -2993377.0
+(1, 240000)
+Day 560--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -3993376.0
+(1, 240000)
+Day 561--The stock was SOLD at price: [1368.45] ----- Total Revenue: -3993376.0
+(1, 240000)
+Day 562--The stock is SOLD AGAIN, [1368.45, 1367.75] ----- Total Revenue: -3993376.0
+(1, 240000)
+Day 563--The stock is SOLD AGAIN, [1368.45, 1367.75, 1384.5] ----- Total Revenue: -3993376.0
+(1, 240000)
+Day 564--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -4993375.0
+(1, 240000)
+Day 565--The stock was SOLD at price: [1364.35] ----- Total Revenue: -4993375.0
+(1, 240000)
+Day 566--The stock is SOLD AGAIN, [1364.35, 1358.25] ----- Total Revenue: -4993375.0
+(1, 240000)
+Day 567--The stock is SOLD AGAIN, [1364.35, 1358.25, 1374.6] ----- Total Revenue: -4993375.0
+(1, 240000)
+Day 568--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -5993374.0
+(1, 240000)
+Day 569--The stock was SOLD at price: [1459.25] ----- Total Revenue: -5993374.0
+Day 570--The trade EXITS (short) at 1422 profit: 755.0 ----- Total Revenue: -5992619.0
+(1, 240000)
+Day 571--The stock was SOLD at price: [1428.55] ----- Total Revenue: -5992619.0
+(1, 240000)
+Day 572--The stock is SOLD AGAIN, [1428.55, 1418.35] ----- Total Revenue: -5992619.0
+(1, 240000)
+Day 573--The stock is SOLD AGAIN, [1428.55, 1418.35, 1422.6] ----- Total Revenue: -5992619.0
+(1, 240000)
+Day 574--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -6992618.0
+(1, 240000)
+Day 575--The stock was SOLD at price: [1425.45] ----- Total Revenue: -6992618.0
+(1, 240000)
+Day 576--The stock is SOLD AGAIN, [1425.45, 1429.45] ----- Total Revenue: -6992618.0
+(1, 240000)
+Day 577--The stock is SOLD AGAIN, [1425.45, 1429.45, 1412.75] ----- Total Revenue: -6992618.0
+Day 578--The trade EXITS (short) at 1402 profit: 1236.0 ----- Total Revenue: -6991382.0
+Day 579--The stock was BOUGHT at price: [1380.05] ----- Total Revenue: -6991382.0
+(1, 240000)
+Day 580--The trade EXITS (Long) at 1381 profit: 22.0 ----- Total Revenue: -6991360.0
+(1, 240000)
+Day 581--The stock was SOLD at price: [1392.05] ----- Total Revenue: -6991360.0
+(1, 240000)
+Day 582--The stock is SOLD AGAIN, [1392.05, 1383.0] ----- Total Revenue: -6991360.0
+(1, 240000)
+Day 583--The stock is SOLD AGAIN, [1392.05, 1383.0, 1376.15] ----- Total Revenue: -6991360.0
+(1, 240000)
+Day 584--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -7991359.0
+(1, 240000)
+Day 585--The stock was SOLD at price: [1359.95] ----- Total Revenue: -7991359.0
+(1, 240000)
+Day 586--The stock is SOLD AGAIN, [1359.95, 1361.4] ----- Total Revenue: -7991359.0
+(1, 240000)
+Day 587--The stock is SOLD AGAIN, [1359.95, 1361.4, 1358.15] ----- Total Revenue: -7991359.0
+(1, 240000)
+Day 588--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -8991358.0
+(1, 240000)
+Day 589--The stock was SOLD at price: [1345.75] ----- Total Revenue: -8991358.0
+Day 590--The trade EXITS (short) at 1352 profit: -125.0 ----- Total Revenue: -8991483.0
+(1, 240000)
+Day 591--The stock was SOLD at price: [1359.7] ----- Total Revenue: -8991483.0
+(1, 240000)
+Day 592--The stock is SOLD AGAIN, [1359.7, 1358.7] ----- Total Revenue: -8991483.0
+(1, 240000)
+Day 593--The stock is SOLD AGAIN, [1359.7, 1358.7, 1340.25] ----- Total Revenue: -8991483.0
+(1, 240000)
+Day 594--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -9991482.0
+(1, 240000)
+Day 595--The stock was SOLD at price: [1322.95] ----- Total Revenue: -9991482.0
+(1, 240000)
+Day 596--The stock is SOLD AGAIN, [1322.95, 1332.45] ----- Total Revenue: -9991482.0
+(1, 240000)
+Day 597--The stock is SOLD AGAIN, [1322.95, 1332.45, 1361.95] ----- Total Revenue: -9991482.0
+(1, 240000)
+Day 598--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -10991481.0
+(1, 240000)
+Day 599--The stock was SOLD at price: [1372.3] ----- Total Revenue: -10991481.0
+(1, 240000)
+Day 600--The stock is SOLD AGAIN, [1372.3, 1395.9] ----- Total Revenue: -10991481.0
+(1, 240000)
+Day 601--The stock is SOLD AGAIN, [1372.3, 1395.9, 1384.95] ----- Total Revenue: -10991481.0
+(1, 240000)
+Day 602--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -11991480.0
+(1, 240000)
+Day 603--The stock was SOLD at price: [1404.2] ----- Total Revenue: -11991480.0
+(1, 240000)
+Day 604--The stock is SOLD AGAIN, [1404.2, 1429.35] ----- Total Revenue: -11991480.0
+(1, 240000)
+Day 605--The stock is SOLD AGAIN, [1404.2, 1429.35, 1483.4] ----- Total Revenue: -11991480.0
+Day 606--The trade EXITS (short) at 1496 profit: -3412.0 ----- Total Revenue: -11994892.0
+(1, 240000)
+Day 607--The stock was SOLD at price: [1526.45] ----- Total Revenue: -11994892.0
+(1, 240000)
+Day 608--The stock is SOLD AGAIN, [1526.45, 1513.25] ----- Total Revenue: -11994892.0
+(1, 240000)
+Day 609--The stock is SOLD AGAIN, [1526.45, 1513.25, 1508.75] ----- Total Revenue: -11994892.0
+(1, 240000)
+Day 610--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -12994891.0
+Day 611--The stock was BOUGHT at price: [1504.7] ----- Total Revenue: -12994891.0
+(1, 240000)
+Day 612--The trade EXITS (Long) at 1545 profit: 810.0 ----- Total Revenue: -12994081.0
+(1, 240000)
+Day 613--The stock was SOLD at price: [1525.4] ----- Total Revenue: -12994081.0
+Day 614--The trade EXITS (short) at 1566 profit: -809.0 ----- Total Revenue: -12994890.0
+(1, 240000)
+Day 615--The stock was SOLD at price: [1559.2] ----- Total Revenue: -12994890.0
+Day 616--The stock is SOLD AGAIN, [1559.2, 1565.9] ----- Total Revenue: -12994890.0
+(1, 240000)
+Day 617--The stock is SOLD AGAIN, [1559.2, 1565.9, 1575.5] ----- Total Revenue: -12994890.0
+(1, 240000)
+Day 618--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -13994889.0
+(1, 240000)
+Day 619--The stock was SOLD at price: [1569.7] ----- Total Revenue: -13994889.0
+Day 620--
+The budget was LOST, the budget RESETS 
+ ----- Total Revenue: 3000
+(1, 240000)
+Day 621--The stock was SOLD at price: [1586.45] ----- Total Revenue: 3000
+(1, 240000)
+Day 622--The stock is SOLD AGAIN, [1586.45, 1595.15] ----- Total Revenue: 3000
+(1, 240000)
+Day 623--The stock is SOLD AGAIN, [1586.45, 1595.15, 1589.15] ----- Total Revenue: 3000
+(1, 240000)
+Day 624--The IA tried to SELL AGAIN but FAILED ----- Total Revenue: -996999
+(1, 240000)
+Day 625--The stock was SOLD at price: [1580.4] ----- Total Revenue: -996999
